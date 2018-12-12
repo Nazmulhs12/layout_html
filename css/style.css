@@ -1,0 +1,39 @@
+.header{
+	background-color: #ffccff;
+	min-height: 150px;
+	border: 5px solid pink;
+
+}
+.body{
+	
+	min-height: 400px;
+	overflow: hidden;
+	font-size: 20px;
+}
+.html{
+	background-color: green;
+	min-height: 400px;
+	width: 50%;
+	float: left;
+}
+.css{
+	background-color: yellow;
+	min-height: 400px;
+	width: 50%;
+	float: left;
+}
+
+.footer{
+	min-height: 70px;
+	background-color: pink;
+	clear: both;
+}
+.demo1, .demo2, .demo3, .demo4 {
+  
+ text-align: center;
+
+  
+}
+.demo4{
+	font-size: 25px;
+}
